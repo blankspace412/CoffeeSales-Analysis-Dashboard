@@ -62,5 +62,5 @@ Hot Chocolate
 Friday and Wednesday generate the highest sales; Sunday is the lowest.
 
 6. Snapshot/ Demo:
-
+This is how the Dashboard looks like - https://github.com/blankspace412/CoffeeSales-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Coffee%20Sales%20Analysis%20Dashboard.png
 
